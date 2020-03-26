@@ -3,7 +3,9 @@ List of Covid-19 Open Source Mask initiatives for emergency purposes that have b
 
 **3d printable mask for covid-19**
 
-An [IN PROGRESS] open source, low resource, quick deployment ventilator design that utilizes a bag valve mask (BVM or Ambu-bag) as a core component.
+Due to a shortage of masks for healthcare professionals across the country, we have developed and designed a 3D printed mask. This has been a collaborative effort with several individuals and local entities. We are encouraging all hobbyist, dentists, schools, universities and anyone with 3D printers to start making these masks and delivering them to your local hospitals!
+
+Masks require a filter which can be made cutting up a single mask into 6 pieces or by ordering custom filter patches (which exceed industry standards) from flowmarkhightech.com. His business has the capacity to produce as many as are needed.
 
 - Website: https://longliveyoursmile.com/3d-printable-mask-for-covid-19/
 - Files: https://longliveyoursmile.com/download/1405/
