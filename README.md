@@ -9,7 +9,7 @@ An [IN PROGRESS] open source, low resource, quick deployment ventilator design t
 - Files: https://longliveyoursmile.com/download/1405/
 - Twitter: https://twitter.com/ZauggDentistry
 - Media: https://longliveyoursmile.com/3d-printable-mask-for-covid-19/
-- Feedback: ✅ Tested by @bneiluj @pepae
+- Feedback: ✅ Tested by @bneiluj[https://github.com/bneiluj] @pepae[https://github.com/pepae]
 - Quality: 9/10
 
 <p align="center">
