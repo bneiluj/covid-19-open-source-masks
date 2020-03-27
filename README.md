@@ -23,7 +23,7 @@ Masks require a filter which can be made cutting up a single mask into 6 pieces 
 Mask being printed and distributed in the province of Huesca in Spain.  
 As of 27th March 2020, they are a group of 68 people helping produce them and have distributed 1400 units.
 
-- Materials: PLA (Donated by BQ factory), acetate, plastic bridle, flexible transparent platic (PVC) or A4 tranparent book covers  
+- Materials: PLA (Donated by Plásticos Escanero), acetate, plastic bridle, flexible transparent plastic (PVC) or A4 tranparent book covers  
 - Printer settings: Height cover 0.2 speed 80mm/s, unfilled, with supports  
 
 <p align="center">
