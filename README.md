@@ -11,6 +11,7 @@ Updates: 3/28, 10.00 Protection shield RC3 has been approved for use by michigan
 - Frequent questions: https://help.prusa3d.com/en/article/3d-printed-protective-face-shields-faqs_125479
 - Media: https://www.prusa3d.cz/wp-content/uploads/2020/03/fb_post.jpg
 - Feedback: Not tested yet
+- Health precautions according to the French authorities (French only): http://www.fablab.fr/coronavirus/prototypage-et-projets/article/2-visieres-de-protection-coronavirus
 - Files: Version RC3: https://www.prusaprinters.org/prints/27267
 
 <p align="center">
