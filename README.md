@@ -1,6 +1,22 @@
 # covid-19-open-source-masks-list
 List of Covid-19 Open Source Mask initiatives for emergency purposes that have been tested by the community
 
+**Prusa Protective Face Shield - RC3, 3D printed face shields for medics and professionals by Prusa**
+
+Open-source face shields anyone with a 3D printer can help producing. Join the community-driven effort to help professionals in your area.
+
+Updates: 3/28, 10.00 Protection shield RC3 has been approved for use by michigan medecine procurement.
+
+- website: https://www.prusa3d.com/covid19/
+- Frequent questions: https://help.prusa3d.com/en/article/3d-printed-protective-face-shields-faqs_125479
+- Media: https://www.prusa3d.cz/wp-content/uploads/2020/03/fb_post.jpg
+- Feedback: Not tested yet
+- Files: Version RC3: https://www.prusaprinters.org/prints/27267
+
+<p align="center">
+  <img width="400px" src="https://github.com/bneiluj/covid-19-open-source-masks/blob/master/assets/prusa/shield-1.jpg" />
+</p>
+
 **3d printable mask for covid-19**
 
 Due to a shortage of masks for healthcare professionals across the country, we have developed and designed a 3D printed mask. This has been a collaborative effort with several individuals and local entities. We are encouraging all hobbyist, dentists, schools, universities and anyone with 3D printers to start making these masks and delivering them to your local hospitals!
@@ -17,6 +33,8 @@ Masks require a filter which can be made cutting up a single mask into 6 pieces 
 <p align="center">
   <img width="400px" src="https://github.com/bneiluj/covid-19-open-source-masks/blob/master/assets/longliveyoursmile/tests/2020-03-26 12.51.46.jpg" />
 </p>
+
+https://www.prusa3d.com/covid19/
 
 **3d printable protective mask**
 
