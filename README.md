@@ -61,3 +61,6 @@ As of 27th March 2020, they are a group of 68 people helping produce them and ha
   <img src="assets/protective-masks/jpg/protective_mask_4.jpeg" width="300">&nbsp;
   <img src="assets/protective-masks/jpg/protective_mask_5.jpeg" width="300">&nbsp;
 </p>
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
