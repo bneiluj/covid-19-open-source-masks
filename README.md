@@ -14,7 +14,14 @@ Updates: 3/28, 10.00 Protection shield RC3 has been approved for use by michigan
 - Files: Version RC3: https://www.prusaprinters.org/prints/27267
 
 <p align="center">
-  <img width="400px" src="https://github.com/bneiluj/covid-19-open-source-masks/blob/master/assets/prusa/shield-1.jpg" />
+  <img src="/assets/prusa/shield-1.jpg" width="300">&nbsp;
+  <img src="/assets/prusa/shield-2.jpg" width="300">&nbsp;
+</p>  
+
+<p align="center">
+  <img src="/assets/prusa/shield-3.jpg" width="300">&nbsp;
+  <img src="/assets/prusa/shield-4.jpg" width="300">&nbsp;
+  <img src="/assets/prusa/shield-5.jpg" width="300">&nbsp;
 </p>
 
 **3d printable mask for covid-19**
