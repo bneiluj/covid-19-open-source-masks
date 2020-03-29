@@ -85,3 +85,5 @@ NanoHack was inspired by a great global pandemic. The most radical innovations a
   <img src="assets/Copper3D-n95-masks/copper3d-3.jpg" width="300">&nbsp;
   <img src="assets/Copper3D-n95-masks/copper3d-4.jpg" width="300">&nbsp;
 </p>
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
