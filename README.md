@@ -71,10 +71,9 @@ NanoHack was inspired by a great global pandemic. The most radical innovations a
 - Files: https://copper3d.com/hackthepandemic/
 - Twitter: https://twitter.com/Copper3D_Global
 - Media: https://www.instagram.com/copper3d_global/
-- Feedback: 🔺 Tested by @bneiluj[https://github.com/bneiluj] @pepae[https://github.com/pepae]
+- Feedback: 🔺 Tested by @bneiluj[https://github.com/bneiluj] @pepae[https://github.com/pepae]. It doesn't fit the visage and air goes through the borders. It's very long to print.
 - Quality: 7/10
-- Feedback: It doesn't fit the visage and air goes through the borders. It's very long to print.
-- Recommendation: Not recommended for usage
+- Recommendation: Not recommended for usage.
 
 <p align="center">
   <img src="assets/Copper3D-n95-masks/copper3d-1.jpg" width="300">&nbsp;
