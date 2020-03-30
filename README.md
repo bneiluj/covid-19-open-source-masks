@@ -82,3 +82,20 @@ Open-source face shields you can print on any 3D printer. On an Ender 3 I was ab
 </p>  
 
 
+**Laser cut visor, completed with a transparent sheet of paper**
+
+Open-source face shields you can laser cut with a laser cutter. Throughput is maximised and highly versatile use. 
+The design was tested and validated by hospital crew in Lyon, France
+
+- website: https://grabcad.com/library/covisiere-youfactory-v1-1
+- Feedback: Ships ultra fast, fits great, no need for a rubber band, plastic sheet is held tight to headset. Great for mass production.
+- Files: https://grabcad.com/library/covisiere-youfactory-v1-1
+
+
+<p align="center">
+  <img src="/assets/covisiere/assembled.jpeg" width="300">&nbsp;
+  <img src="/assets/covisiere/out-of-printer.jpeg" width="300">&nbsp;
+</p>  
+
+
+
