@@ -77,7 +77,7 @@ Open-source face shields you can print on any 3D printer. On an Ender 3 I was ab
 
 
 <p align="center">
-  <img src="/assets/verkstan/headset-with-shield" width="300">&nbsp;
+  <img src="/assets/verkstan/headset-with-shield.jpg" width="300">&nbsp;
   <img src="/assets/verkstan/headset-alone.jpg" width="300">&nbsp;
 </p>  
 
