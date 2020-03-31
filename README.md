@@ -101,8 +101,6 @@ Open-source face shields you can print on any 3D printer. On an Ender 3 I was ab
   <img src="/assets/verkstan/headset-alone.jpg" width="300">&nbsp;
 </p>  
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-
 **Laser cut visor, completed with a transparent sheet of paper**
 
 Open-source face shields you can laser cut with a laser cutter. Throughput is maximised and highly versatile use. 
@@ -117,6 +115,8 @@ The design was tested and validated by hospital crew in Lyon, France
   <img src="/assets/covisiere/assembled.jpeg" width="300">&nbsp;
   <img src="/assets/covisiere/out-of-printer.jpeg" width="300">&nbsp;
 </p>  
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 
 
