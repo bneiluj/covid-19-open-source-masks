@@ -116,6 +116,13 @@ The design was tested and validated by hospital crew in Lyon, France
   <img src="/assets/covisiere/out-of-printer.jpeg" width="300">&nbsp;
 </p>  
 
+# Contributors
+
+This project exists thanks to all the people who contribute. https://github.com/bneiluj/covid-19-open-source-ventilators/graphs/contributors 🙏 
+
+[Telegram Group](https://t.me/OpenSourceCovidVentilators)
+
+
 # Backers
 
 Thank you to all our backers! 🙏 [Become a backer](https://gitcoin.co/grants/578/open-source-covid-ventilator-oscv?tab=contributors)
