@@ -11,6 +11,7 @@ Updates: 3/28, 10.00 Protection shield RC3 has been approved for use by michigan
 - Frequent questions: https://help.prusa3d.com/en/article/3d-printed-protective-face-shields-faqs_125479
 - Media: https://www.prusa3d.cz/wp-content/uploads/2020/03/fb_post.jpg
 - Feedback: Not tested yet
+- Health precautions according to the French authorities (French only): http://www.fablab.fr/coronavirus/prototypage-et-projets/article/2-visieres-de-protection-coronavirus
 - Files: Version RC3: https://www.prusaprinters.org/prints/27267
 - Quality: 9/10
 
@@ -71,10 +72,9 @@ NanoHack was inspired by a great global pandemic. The most radical innovations a
 - Files: https://copper3d.com/hackthepandemic/
 - Twitter: https://twitter.com/Copper3D_Global
 - Media: https://www.instagram.com/copper3d_global/
-- Feedback: 🔺 Tested by @bneiluj[https://github.com/bneiluj] @pepae[https://github.com/pepae]
+- Feedback: 🔺 Tested by @bneiluj[https://github.com/bneiluj] @pepae[https://github.com/pepae]. It doesn't fit the visage and air goes through the borders. It's very long to print.
 - Quality: 7/10
-- Feedback: It doesn't fit the visage and air goes through the borders. It's very long to print.
-- Recommendation: Not recommended for usage
+- Recommendation: Not recommended for usage.
 
 <p align="center">
   <img src="assets/Copper3D-n95-masks/copper3d-1.jpg" width="300">&nbsp;
@@ -85,6 +85,36 @@ NanoHack was inspired by a great global pandemic. The most radical innovations a
   <img src="assets/Copper3D-n95-masks/copper3d-3.jpg" width="300">&nbsp;
   <img src="assets/Copper3D-n95-masks/copper3d-4.jpg" width="300">&nbsp;
 </p>
+
+**3D printed visor, completed with a transparent sheet of paper**
+
+Open-source face shields you can print on any 3D printer. On an Ender 3 I was able to print one in less than an hour.
+
+- website: https://3dverkstan.se/protective-visor/
+- Optimising your print: https://3dverkstan.se/protective-visor/protective-visor-print-guide/
+- Feedback: Print great, has started shipping to various people in France
+- Files: https://www.youmagine.com/designs/protective-visor-by-3dverkstan
+
+
+<p align="center">
+  <img src="/assets/verkstan/headset-with-shield.jpg" width="300">&nbsp;
+  <img src="/assets/verkstan/headset-alone.jpg" width="300">&nbsp;
+</p>  
+
+**Laser cut visor, completed with a transparent sheet of paper**
+
+Open-source face shields you can laser cut with a laser cutter. Throughput is maximised and highly versatile use.
+The design was tested and validated by hospital crew in Lyon, France
+
+- website: https://grabcad.com/library/covisiere-youfactory-v1-1
+- Feedback: Ships ultra fast, fits great, no need for a rubber band, plastic sheet is held tight to headset. Great for mass production.
+- Files: https://grabcad.com/library/covisiere-youfactory-v1-1
+
+
+<p align="center">
+  <img src="/assets/covisiere/assembled.jpeg" width="300">&nbsp;
+  <img src="/assets/covisiere/out-of-printer.jpeg" width="300">&nbsp;
+</p>  
 
 # Backers
 
