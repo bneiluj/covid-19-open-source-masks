@@ -120,6 +120,8 @@ The design was tested and validated by hospital crew in Lyon, France
 
 Thank you to all our backers! 🙏 [Become a backer](https://gitcoin.co/grants/578/open-source-covid-ventilator-oscv?tab=contributors)
 
-<a href="https://gitcoin.co/grants/578/open-source-covid-ventilator-oscv?tab=contributors" target="_blank"><img src="assets/contributors/contributors.jpg" width="300">&nbsp;/></a>
+<p align="center">
+  <img href="https://gitcoin.co/grants/578/open-source-covid-ventilator-oscv?tab=contributors" src="assets/contributors/contributors.jpg" width="300">&nbsp;
+</p>  
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
