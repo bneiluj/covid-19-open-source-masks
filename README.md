@@ -10,10 +10,10 @@ Updates: 3/28, 10.00 Protection shield RC3 has been approved for use by michigan
 - website: https://www.prusa3d.com/covid19/
 - Frequent questions: https://help.prusa3d.com/en/article/3d-printed-protective-face-shields-faqs_125479
 - Media: https://www.prusa3d.cz/wp-content/uploads/2020/03/fb_post.jpg
-- Feedback: Not tested yet
+- Feedback: ✅ tested by @bneiluj. Fixations are not so great
 - Health precautions according to the French authorities (French only): http://www.fablab.fr/coronavirus/prototypage-et-projets/article/2-visieres-de-protection-coronavirus
 - Files: Version RC3: https://www.prusaprinters.org/prints/27267
-- Quality: 9/10
+- Quality: 8/10
 
 <p align="center">
   <img src="/assets/prusa/shield-1.jpg" width="300">&nbsp;
@@ -73,7 +73,7 @@ NanoHack was inspired by a great global pandemic. The most radical innovations a
 - Twitter: https://twitter.com/Copper3D_Global
 - Media: https://www.instagram.com/copper3d_global/
 - Feedback: 🔺 Tested by @bneiluj[https://github.com/bneiluj] @pepae[https://github.com/pepae]. It doesn't fit the visage and air goes through the borders. It's very long to print.
-- Quality: 7/10
+- Quality: 1/10
 - Recommendation: Not recommended for usage.
 
 <p align="center">
