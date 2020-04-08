@@ -36,8 +36,8 @@ Masks require a filter which can be made cutting up a single mask into 6 pieces 
 - Files: https://longliveyoursmile.com/download/1405/
 - Twitter: https://twitter.com/ZauggDentistry
 - Media: https://longliveyoursmile.com/3d-printable-mask-for-covid-19/
-- Feedback: ✅ Tested by @bneiluj[https://github.com/bneiluj] @pepae[https://github.com/pepae]
-- Quality: 8/10
+- Feedback: ✅ Tested by @bneiluj[https://github.com/bneiluj] @pepae[https://github.com/pepae] It's good mask but PLA is not so good to stop air between skin and mask borders. It's recommended to add a tissue
+- Quality: 6/10
 
 <p align="center">
   <img width="400px" src="https://github.com/bneiluj/covid-19-open-source-masks/blob/master/assets/longliveyoursmile/tests/2020-03-26 12.51.46.jpg" />
