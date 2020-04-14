@@ -14,6 +14,7 @@ Updates: 3/28, 10.00 Protection shield RC3 has been approved for use by michigan
 - Health precautions according to the French authorities (French only): http://www.fablab.fr/coronavirus/prototypage-et-projets/article/2-visieres-de-protection-coronavirus
 - Files: Version RC3: https://www.prusaprinters.org/prints/27267
 - Quality: 8/10
+- Printing time: ~2h
 
 <p align="center">
   <img src="/assets/prusa/shield-1.jpg" width="300">&nbsp;
