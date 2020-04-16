@@ -28,6 +28,7 @@ Updates: 3/28, 10.00 Protection shield RC3 has been approved for use by michigan
   <img src="/assets/prusa/shield-3.jpg" width="300">&nbsp;
   <img src="/assets/prusa/shield-4.jpg" width="300">&nbsp;
   <img src="/assets/prusa/shield-5.jpg" width="300">&nbsp;
+  <img src="/assets/prusa/julien-prusa.jpeg" width="300">&nbsp;
 </p>
 
 **3d printable mask for covid-19**
@@ -122,7 +123,7 @@ The design was tested and validated by hospital crew in Lyon, France
 
 # Contributors
 
-This project exists thanks to all the people who contribute. https://github.com/bneiluj/covid-19-open-source-ventilators/graphs/contributors 🙏 
+This project exists thanks to all the people who contribute. https://github.com/bneiluj/covid-19-open-source-ventilators/graphs/contributors 🙏
 
 [Telegram Group](https://t.me/OpenSourceCovidVentilators)
 
