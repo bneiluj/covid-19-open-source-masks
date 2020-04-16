@@ -1,4 +1,7 @@
 # covid-19-open-source-masks-list
+
+Published on: https://bneiluj.github.io/covid-19-open-source-masks/
+
 List of Covid-19 Open Source Mask initiatives for emergency purposes that have been tested by the community
 
 **Prusa Protective Face Shield - RC3, 3D printed face shields for medics and professionals by Prusa**
