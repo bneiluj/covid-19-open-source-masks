@@ -86,9 +86,10 @@ Open-source face shields you can print on any 3D printer. On an Ender 3 I was ab
 
 Open-source face shields you can laser cut with a laser cutter. Throughput is maximised and highly versatile use. 
 The design was tested and validated by hospital crew in Lyon, France
+Material to use is Plexiglass.
 
 - website: https://grabcad.com/library/covisiere-youfactory-v1-1
-- Feedback: Ships ultra fast, fits great, no need for a rubber band, plastic sheet is held tight to headset. Great for mass production.
+- Feedback: Ships ultra fast, fits great, no need for a rubber band, plastic sheet is held tight to headset. Great for mass production. A bit fragile.
 - Files: https://grabcad.com/library/covisiere-youfactory-v1-1
 
 
@@ -97,5 +98,19 @@ The design was tested and validated by hospital crew in Lyon, France
   <img src="/assets/covisiere/out-of-printer.jpeg" width="300">&nbsp;
 </p>  
 
+**Laser cut visor made with flexible material**
+
+Open-source face shields you can laser cut with a laser cutter. Throughput is maximised and highly versatile use. 
+The design is made to be cut in flexible material, which makes it possible to cut faster, with lower costs
+
+- website: https://code.electrolab.fr/covid-19/visiere
+- Feedback: Ships even faster than the previous one, and materials are easier to find and cheaper. It is nice to be able to adapt the size of the visor too. You need a small elastic to hold it together though.
+- Files: https://code.electrolab.fr/covid-19/visiere/-/blob/master/visiere_covid19_ELVI10A4.svg
+
+
+<p align="center">
+  <img src="/assets/electrolab/unassambled.jpeg" width="300">&nbsp;
+  <img src="/assets/electrolab/assembled.jpeg" width="300">&nbsp;
+</p>  
 
 
