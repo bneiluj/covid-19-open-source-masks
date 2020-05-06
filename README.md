@@ -122,7 +122,7 @@ Material to use is Plexiglass.
   <img src="/assets/covisiere/out-of-printer.jpeg" width="300">&nbsp;
 </p>  
 
-**Flexible laser cut visor, completed with a transparent sheet of paper **
+**Flexible laser cut visor, completed with a transparent sheet of paper**
 
 Open-source face shields you can laser cut with a laser cutter. Throughput is maximised and highly versatile use. 
 The design is made to be cut in flexible material, which makes it possible to cut faster, with lower costs
