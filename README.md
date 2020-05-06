@@ -1,4 +1,7 @@
 # covid-19-open-source-masks-list
+
+Published on: https://bneiluj.github.io/covid-19-open-source-masks/
+
 List of Covid-19 Open Source Mask initiatives for emergency purposes that have been tested by the community
 
 **Prusa Protective Face Shield - RC3, 3D printed face shields for medics and professionals by Prusa**
@@ -10,8 +13,11 @@ Updates: 3/28, 10.00 Protection shield RC3 has been approved for use by michigan
 - website: https://www.prusa3d.com/covid19/
 - Frequent questions: https://help.prusa3d.com/en/article/3d-printed-protective-face-shields-faqs_125479
 - Media: https://www.prusa3d.cz/wp-content/uploads/2020/03/fb_post.jpg
-- Feedback: Not tested yet
+- Feedback: ✅ tested by @bneiluj. Fixations are not so great
+- Health precautions according to the French authorities (French only): http://www.fablab.fr/coronavirus/prototypage-et-projets/article/2-visieres-de-protection-coronavirus
 - Files: Version RC3: https://www.prusaprinters.org/prints/27267
+- Quality: 10/10
+- Printing time: ~2h
 
 <p align="center">
   <img src="/assets/prusa/shield-1.jpg" width="300">&nbsp;
@@ -22,6 +28,7 @@ Updates: 3/28, 10.00 Protection shield RC3 has been approved for use by michigan
   <img src="/assets/prusa/shield-3.jpg" width="300">&nbsp;
   <img src="/assets/prusa/shield-4.jpg" width="300">&nbsp;
   <img src="/assets/prusa/shield-5.jpg" width="300">&nbsp;
+  <img src="/assets/prusa/julien-prusa.jpeg" width="300">&nbsp;
 </p>
 
 **3d printable mask for covid-19**
@@ -34,8 +41,8 @@ Masks require a filter which can be made cutting up a single mask into 6 pieces 
 - Files: https://longliveyoursmile.com/download/1405/
 - Twitter: https://twitter.com/ZauggDentistry
 - Media: https://longliveyoursmile.com/3d-printable-mask-for-covid-19/
-- Feedback: ✅ Tested by @bneiluj[https://github.com/bneiluj] @pepae[https://github.com/pepae]
-- Quality: 9/10
+- Feedback: ✅ Tested by @bneiluj[https://github.com/bneiluj] @pepae[https://github.com/pepae] It's good mask but PLA is not so good to stop air between skin and mask borders. It's recommended to add a tissue
+- Quality: 6/10
 
 <p align="center">
   <img width="400px" src="https://github.com/bneiluj/covid-19-open-source-masks/blob/master/assets/longliveyoursmile/tests/2020-03-26 12.51.46.jpg" />
@@ -62,9 +69,27 @@ As of 27th March 2020, they are a group of 68 people helping produce them and ha
   <img src="assets/protective-masks/jpg/protective_mask_5.jpeg" width="300">&nbsp;
 </p>
 
+**Copper3D n95 masks**
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+NanoHack was inspired by a great global pandemic. The most radical innovations are born from crises, which is why NanoHack is a unique design.
 
+- Website:https://cults3d.com/en/3d-model/tool/n95-masks-against-coronavirus-covid19-hackthepandemic
+- Files: https://copper3d.com/hackthepandemic/
+- Twitter: https://twitter.com/Copper3D_Global
+- Media: https://www.instagram.com/copper3d_global/
+- Feedback: 🔺 Tested by @bneiluj[https://github.com/bneiluj] @pepae[https://github.com/pepae]. It doesn't fit the visage and air goes through the borders. It's very long to print.
+- Quality: 1/10
+- Recommendation: Not recommended for usage.
+
+<p align="center">
+  <img src="assets/Copper3D-n95-masks/copper3d-1.jpg" width="300">&nbsp;
+  <img src="assets/Copper3D-n95-masks/copper3d-2.jpg" width="300">&nbsp;
+</p>  
+
+<p align="center">
+  <img src="assets/Copper3D-n95-masks/copper3d-3.jpg" width="300">&nbsp;
+  <img src="assets/Copper3D-n95-masks/copper3d-4.jpg" width="300">&nbsp;
+</p>
 
 **3D printed visor, completed with a transparent sheet of paper**
 
@@ -81,10 +106,9 @@ Open-source face shields you can print on any 3D printer. On an Ender 3 I was ab
   <img src="/assets/verkstan/headset-alone.jpg" width="300">&nbsp;
 </p>  
 
+**Rigid laser cut visor, completed with a transparent sheet of paper**
 
-**Laser cut visor, completed with a transparent sheet of paper**
-
-Open-source face shields you can laser cut with a laser cutter. Throughput is maximised and highly versatile use. 
+Open-source face shields you can laser cut with a laser cutter. Throughput is maximised and highly versatile use.
 The design was tested and validated by hospital crew in Lyon, France
 Material to use is Plexiglass.
 
@@ -98,7 +122,7 @@ Material to use is Plexiglass.
   <img src="/assets/covisiere/out-of-printer.jpeg" width="300">&nbsp;
 </p>  
 
-**Laser cut visor made with flexible material**
+**Flexible laser cut visor, completed with a transparent sheet of paper **
 
 Open-source face shields you can laser cut with a laser cutter. Throughput is maximised and highly versatile use. 
 The design is made to be cut in flexible material, which makes it possible to cut faster, with lower costs
@@ -113,4 +137,19 @@ The design is made to be cut in flexible material, which makes it possible to cu
   <img src="/assets/electrolab/assembled.jpeg" width="300">&nbsp;
 </p>  
 
+# Contributors
 
+This project exists thanks to all the people who contribute. https://github.com/bneiluj/covid-19-open-source-ventilators/graphs/contributors 🙏
+
+[Telegram Group](https://t.me/OpenSourceCovidVentilators)
+
+
+# Backers
+
+Thank you to all our backers! 🙏 [Become a backer](https://gitcoin.co/grants/578/open-source-covid-ventilator-oscv?tab=contributors)
+
+<p align="center">
+  <img href="https://gitcoin.co/grants/578/open-source-covid-ventilator-oscv?tab=contributors" src="assets/contributors/contributors.jpg" width="1200">&nbsp;
+</p>  
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
